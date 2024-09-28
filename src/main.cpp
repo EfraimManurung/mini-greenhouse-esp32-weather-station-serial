@@ -1,15 +1,17 @@
 /*
-  esp32-weather-station
+  ESP32 Weather Station 
   The purpose of this program is to monitor outside greenouse environment.
+
+  Author: Efraim Manurung
+  MSc Thesis in Information Technology Group, Wageningen University
+
+  efraim.manurung@gmail.com
   
   Components:
+  - ESP32  : Microcontroller 
   - CCS811 : CO2 Sensor
   - BH1750 : Lux Sensor
   - BME280 : Humidity, temperature and pressure
-  
-  Author: Efraim Manurung
-
-  Information Technology Group, Wageningen University
   */
 
 // include the libraries needed
