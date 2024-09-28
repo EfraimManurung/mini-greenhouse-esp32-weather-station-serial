@@ -1,2 +1,2 @@
-# ESP32 Wather Station
+# ESP32 Weather Station Serial
 This is the firmware in C++ language based on Arduino framework to measure outdoor measurements outside mini-greenhouse with USB serial communication to the Raspberry Pi. More information read https://github.com/EfraimManurung/mini-greenhouse-iot-system.
