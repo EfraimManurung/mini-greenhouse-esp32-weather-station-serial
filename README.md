@@ -1,2 +1,2 @@
-# esp32-sensors-actuators
-This firmware repository for my thesis project
+# ESP32 Wather Station
+This is the firmware in C++ language based on Arduino framework to measure outdoor measurements outside mini-greenhouse with USB serial communication to the Raspberry Pi. More information read https://github.com/EfraimManurung/mini-greenhouse-iot-system.
